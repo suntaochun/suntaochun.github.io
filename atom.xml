@@ -6,7 +6,7 @@
   <link href="https://suntaochun.github.io/atom.xml" rel="self"/>
   
   <link href="https://suntaochun.github.io/"/>
-  <updated>2021-01-26T09:51:38.547Z</updated>
+  <updated>2021-01-26T10:23:39.399Z</updated>
   <id>https://suntaochun.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://suntaochun.github.io/2021/01/26/first-blog/"/>
     <id>https://suntaochun.github.io/2021/01/26/first-blog/</id>
     <published>2021-01-25T23:30:30.000Z</published>
-    <updated>2021-01-26T09:51:38.547Z</updated>
+    <updated>2021-01-26T10:23:39.399Z</updated>
     
     
       
@@ -30,6 +30,32 @@
         
     <summary type="html">&lt;p&gt;Everyday is just a new day. Every blog is just a brand new blog. &lt;/p&gt;
 &lt;p&gt;But there is some significance for this new blog, which, as</summary>
+        
+      
+    
+    
+    
+    <category term="life" scheme="https://suntaochun.github.io/categories/life/"/>
+    
+    
+    <category term="first blog" scheme="https://suntaochun.github.io/tags/first-blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>走进Taochun</title>
+    <link href="https://suntaochun.github.io/2021/01/26/second-blog/"/>
+    <id>https://suntaochun.github.io/2021/01/26/second-blog/</id>
+    <published>2021-01-25T23:30:30.000Z</published>
+    <updated>2021-01-26T10:52:56.403Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;每一天都是崭新的，每一个blog也一样。&lt;/p&gt;
+&lt;p&gt;但是它&lt;strong&gt;意义重大&lt;/strong&gt;，因为是这个网页的第一篇博客（不过与之对应的有&lt;a</summary>
         
       
     
